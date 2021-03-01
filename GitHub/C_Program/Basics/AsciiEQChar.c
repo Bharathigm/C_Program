@@ -1,4 +1,4 @@
-
+/* Program to Print ASCII equivalent of a char */
 #include<stdio.h>
 int main()
 {
