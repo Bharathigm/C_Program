@@ -1,4 +1,4 @@
-/* Program to Print the length of the given string using user defined function and 
+/* Program to Print the Reverse of the given string using user defined function and 
 for loop        */
 
 #include<stdio.h>
